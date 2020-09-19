@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalTask</string>
+    <string name="play_game_msg">Press Button to take quize.</string>
+    <string name="quize_app">Quize App</string>
+</resources>
